@@ -16,8 +16,8 @@ import base64
 import datetime
 
 # Do not share these ids
-client_id = '1186efbd9f1b49c6b116051028845910'
-secret_id = '9982ebda2750418eaf445c1a54363333'
+client_id = 'xxx'
+secret_id = 'xxx'
 
 class SpotifyAPI(object):
   access_token = None
